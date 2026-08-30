@@ -1,6 +1,6 @@
 # Task 0 — Python Fundamentals, Data Analysis & Git
 
-**Name:** <YOUR NAME HERE>
+**Name:** Devansh Dixit
 
 ## Description
 Solutions for IEEE AI/ML SIG Task 0. Covers core Python (lists, functions,
